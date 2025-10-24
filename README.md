@@ -44,7 +44,7 @@ After a decade in finance & risk management (**KPMG** & accounting and working b
 
 <div align="center">
 
-<img src="./docs/images/Photini_logo_v1.jpg" alt="Photini Family Logo" width="120">
+<img src="./docs/images/Photini_logo_v1.jpg" alt="Photini Family Logo" width="90">
 
 </div>
 
