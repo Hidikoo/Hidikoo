@@ -89,7 +89,7 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
 
 <div align="center">
 
-<img src="./docs/images/Cosmic_Bear_Adventure_Pic1..jpg" alt="Cosmic Bear Adventure" width="400">
+<img src="./docs/images/Cosmic_Bear_Adventure_Gif2.gif" alt="Cosmic Bear Adventure" width="300">
 
 </div>
 
@@ -99,9 +99,14 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
 
 <table align="center">
   <tr>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic2..jpg" width="220"></td>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic3..jpg" width="220"></td>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Gif1..gif" width="220"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic1.jpg" width="220"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic5.jpg" width="220"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic2.gif" width="220"></td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic3.jpg" width="300"></td>
   </tr>
 </table>
 
@@ -229,7 +234,7 @@ Design:      AI-generated visuals • Gemini 2.5 Flash • Sora 1 • Higgsfield
 
 <div align="center">
 
-<img src="./docs/images/Cosmic_Bear_Adventure_Video1..mp4" alt="Cosmic Bear Animation" width="400">
+<img src="./docs/images/Cosmic_Bear_Adventure_Gif1.gif" alt="Cosmic Bear Animation" width="220">
 
 **Thank you for visiting.**
 
