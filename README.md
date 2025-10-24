@@ -8,7 +8,7 @@
 
 ---
 
-<img src="./docs/images/AvatarFenix.png" alt="Heidi Kalske-Akintobi" width="180" style="border-radius: 50%; border: 3px solid #fff;">
+<img src="./docs/images/AvatarFenix.jpg" alt="Heidi Kalske-Akintobi" width="180" style="border-radius: 50%; border: 3px solid #fff;">
 
 ---
 
