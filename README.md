@@ -15,7 +15,7 @@
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heidi-kalske-akintobi-38065492)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Hidikoo)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4ED9D2?style=for-the-badge&logo=github)](https://github.com/Hidikoo)
 [![Website](https://img.shields.io/badge/Website-photini.family-FF5BA1?style=for-the-badge)](https://www.photini.family)
 [![Email](https://img.shields.io/badge/Email-hello@photini.family-70B6C8?style=for-the-badge)](mailto:hello@photini.family)
 
