@@ -99,9 +99,9 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
 
 <table align="center">
   <tr>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic1.jpg" width="100"></td>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic5.jpg" width="100"></td>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic2.jpg" width="100"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic1.jpg" width="90"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic5.jpg" width="90"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic2.jpg" width="90"></td>
   </tr>
 <table>
 
