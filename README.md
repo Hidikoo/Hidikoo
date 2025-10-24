@@ -245,7 +245,7 @@ Design:      AI-generated visuals • Gemini 2.5 Flash • Sora 1 • Higgsfield
 
 This site scores **100/100 on Accessibility** and **97/100 on SEO** with Google Lighthouse.
 
-[See 🖥️ Desktop report (PDF)](./docs/Google-Lighthouse-SEO-Accessibility_PersonalSite_Desktop-2025-10-24.pdf) &#124; [See 📱 Mobile report (PDF)](./docs/Google-Lighthouse-SEO-Accessibility_PersonalSite_Mobile-2025-10-24.pdf)
+[![See 🖥️ & 📱 report (PDFs) in Portfolio](https://img.shields.io/badge/Portfolio-hidikoo.github.io%2FHidikoo-FF5BA1?style=for-the-badge&logo=html5&logoColor=white)](https://hidikoo.github.io/Hidikoo/)
 
 ---
 
