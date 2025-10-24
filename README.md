@@ -241,6 +241,14 @@ Design:      AI-generated visuals • Gemini 2.5 Flash • Sora 1 • Higgsfield
 
 ---
 
+![Accessibility 100/100](https://img.shields.io/badge/Accessibility-100%2F100-green) &#124; ![SEO 97/100](https://img.shields.io/badge/SEO-97%2F100-brightgreen)
+
+This site scores **100/100 on Accessibility** and **97/100 on SEO** with Google Lighthouse.
+
+[See 🖥️ Desktop report (PDF)](./docs/Google-Lighthouse-SEO-Accessibility_PersonalSite_Desktop-2025-10-24.pdf) &#124; [See 📱 Mobile report (PDF)](./docs/Google-Lighthouse-SEO-Accessibility_PersonalSite_Mobile-2025-10-24.pdf)
+
+---
+
 **© 2025 Heidi Kalske-Akintobi | Photini Family™**
 
 </div>
