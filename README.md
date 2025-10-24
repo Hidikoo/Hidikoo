@@ -244,8 +244,9 @@ Design:      AI-generated visuals • Gemini 2.5 Flash • Sora 1 • Higgsfield
 ![Accessibility 100/100](https://img.shields.io/badge/Accessibility-100%2F100-green) &#124; ![SEO 97/100](https://img.shields.io/badge/SEO-97%2F100-brightgreen)
 
 This site scores **100/100 on Accessibility** and **97/100 on SEO** with Google Lighthouse.
+See 🖥️ & 📱 reports (PDFs) in Portfolio
 
-[![See 🖥️ & 📱 reports in Portfolio](https://img.shields.io/badge/Portfolio-hidikoo.github.io%2FHidikoo-FF5BA1?style=for-the-badge&logo=html5&logoColor=white)](https://hidikoo.github.io/Hidikoo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hidikoo.github.io%2FHidikoo-FF5BA1?style=for-the-badge&logo=html5&logoColor=white)](https://hidikoo.github.io/Hidikoo/)
 
 ---
 
