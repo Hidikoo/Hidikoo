@@ -8,7 +8,7 @@
 
 ---
 
-<img src="./docs/images/AvatarFenix.jpg" alt="Heidi Kalske-Akintobi" width="180" style="border-radius: 50%; border: 3px solid #fff;">
+<img src="./docs/images/AvatarFenix.jpg" alt="Heidi Kalske-Akintobi" width="160" style="border-radius: 50%; border: 3px solid #fff;">
 
 ---
 
@@ -89,7 +89,7 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
 
 <div align="center">
 
-<img src="./docs/images/Cosmic_Bear_Adventure_Pic4.jpg" alt="Cosmic Bear Adventure" width="220">
+<img src="./docs/images/Cosmic_Bear_Adventure_Pic4.jpg" alt="Cosmic Bear Adventure" width="180">
 
 </div>
 
@@ -99,9 +99,9 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
 
 <table align="center">
   <tr>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic1.jpg" width="180"></td>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic5.jpg" width="180"></td>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic2.jpg" width="180"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic1.jpg" width="160"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic5.jpg" width="160"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic2.jpg" width="160"></td>
   </tr>
 <table>
 
