@@ -89,7 +89,7 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
 
 <div align="center">
 
-<img src="./docs/images/Cosmic_Bear_Adventure_Pic4.jpg" alt="Cosmic Bear Adventure" width="280">
+<img src="./docs/images/Cosmic_Bear_Adventure_Pic4.jpg" alt="Cosmic Bear Adventure" width="220">
 
 </div>
 
@@ -99,9 +99,9 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
 
 <table align="center">
   <tr>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic1.jpg" width="220"></td>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic5.jpg" width="220"></td>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic2.jpg" width="220"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic1.jpg" width="180"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic5.jpg" width="180"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic2.jpg" width="180"></td>
   </tr>
 <table>
 
