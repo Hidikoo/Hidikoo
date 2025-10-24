@@ -10,7 +10,7 @@
 
 <img src="./docs/images/AvatarFenix.jpg" alt="Heidi Kalske-Akintobi" width="160" style="border-radius: 50%; border: 3px solid #fff;">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hidikoo.github.io%2FHidikoo-009DB5?style=for-the-badge&logo=html5&logoColor=white)](https://hidikoo.github.io/Hidikoo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hidikoo.github.io%2FHidikoo-FF5BA1?style=for-the-badge&logo=html5&logoColor=white)](https://hidikoo.github.io/Hidikoo/)
 
 ---
 
