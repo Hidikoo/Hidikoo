@@ -103,12 +103,6 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
     <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic5.jpg" width="220"></td>
     <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic2.jpg" width="220"></td>
   </tr>
-</table>
-<table align="center">
-  <tr>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic3.jpg" width="300"></td>
-  </tr>
-</table>
 
 **Features:**
 - 🐻 Age-appropriate emotional processing tools
