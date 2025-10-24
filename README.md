@@ -8,7 +8,7 @@
 
 ---
 
-<img src="./docs/images/AvatarFenix.jpg" alt="Heidi Kalske-Akintobi" width="180" style="border-radius: 50%; border: 3px solid #fff;">
+<img src="./docs/images/AvatarFenix.jpg" alt="Heidi Kalske-Akintobi" width="160" style="border-radius: 50%; border: 3px solid #fff;">
 
 ---
 
@@ -44,7 +44,7 @@ After a decade in finance & risk management (**KPMG** & accounting and working b
 
 <div align="center">
 
-<img src="./docs/images/Photini_logo_v1.jpg" alt="Photini Family Logo" width="90">
+<img src="./docs/images/Photini_logo_v1.jpg" alt="Photini Family Logo" width="80">
 
 </div>
 
@@ -89,7 +89,7 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
 
 <div align="center">
 
-<img src="./docs/images/Cosmic_Bear_Adventure_Pic4.jpg" alt="Cosmic Bear Adventure" width="180">
+<img src="./docs/images/Cosmic_Bear_Adventure_Pic4.jpg" alt="Cosmic Bear Adventure" width="140">
 
 </div>
 
@@ -99,9 +99,9 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
 
 <table align="center">
   <tr>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic1.jpg" width="90"></td>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic5.jpg" width="90"></td>
-    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic2.jpg" width="90"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic1.jpg" width="70"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic5.jpg" width="70"></td>
+    <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic2.jpg" width="70"></td>
   </tr>
 <table>
 
@@ -229,7 +229,7 @@ Design:      AI-generated visuals • Gemini 2.5 Flash • Sora 1 • Higgsfield
 
 <div align="center">
 
-<img src="./docs/images/Cosmic_Bear_Adventure_Gif1.gif" alt="Cosmic Bear Animation" width="220">
+<img src="./docs/images/Cosmic_Bear_Adventure_Gif1.gif" alt="Cosmic Bear Animation" width="160">
 
 **Thank you for visiting.**
 
