@@ -81,7 +81,7 @@ Go-Driver pioneers **Compliance-by-Design** architecture—where ethics aren't b
 
 It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable populations—especially children and asylum seekers. It will later be developed to more wider use with its innovative design where it is suitable to solve many other problems among human rights, project management and human processes...
 
-**Status:** MVP Q2 2026 | ISO certifications Q3 2026
+**Status:** MVP Q2-3 2026 | ISO certifications Q3-4 2026
 
 **[→ View Documentation](https://hidikoo.github.io/Photini-Go-Driver/)**
 
@@ -113,7 +113,7 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
 - 🌍 Bilingual (Finnish/English)
 - 🎨 AI-generated illustrations
 
-**Status:** Seeking publishers | GoFundMe Q4 2025 | Collecting feedback from trauma professionals and translating into several other languages
+**Status:** Seeking publishers | GoFundMe Q1 2026 | Collecting feedback from trauma professionals and translating into several other languages
 
 ---
 
@@ -159,7 +159,7 @@ Design:      AI-generated visuals • Gemini 2.5 Flash • Sora 1 • Higgsfield
 
 **Current Campaigns:**
 - ✊ **#CaseFinland** – Political asylum case highlighting systemic failures
-- 📢 **Nordic Discrimination Report** – Evidence-based research (Q1 2026 publication)
+- 📢 **Nordic Discrimination Report** – Evidence-based research (Q2 2026 publication)
 - 📚 **Cosmic Bear Adventure** – Healing stories for separated children worldwide
 
 ---
@@ -202,18 +202,18 @@ Design:      AI-generated visuals • Gemini 2.5 Flash • Sora 1 • Higgsfield
 
 ## 2025-2026 GOALS
 
-✅ **Q4 2025:**
+✅ **Q4 2025-Q1 2026:**
 - Launch photini.family website
 - Publish Cosmic Bear Adventure (Book 1)
 - Go-Driver MVP with 3 NGO pilot cases
 - GoFundMe campaign
 
-✅ **Q1 2026:**
+✅ **Q2 2026:**
 - Nordic Discrimination research publication
 - Media campaign for Case Finland
 - ISO 27001 readiness audit
 
-✅ **Q2-Q3 2026:**
+✅ **Q3-Q4 2026:**
 - ISO 27001/27701 certifications
 - Go-Driver v1.0 public launch
 - Cosmic Bear Book 2 draft
