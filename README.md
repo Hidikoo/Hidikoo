@@ -25,13 +25,11 @@
 
 ## ABOUT
 
-After a decade in finance & risk management (**KPMG** & accounting and working banking sector), I founded **[Photini Family™](https://www.photini.family)** in 2025—an ecosystem combining **AI innovation**, **child protection advocacy**, and **trauma-informed technology**.
+After a decade in finance & risk management (**KPMG**, accounting and banking), I founded **[Photini Family™](https://www.photini.family)** in 2025—an ecosystem combining **AI innovation**, **child protection advocacy**, and **trauma-informed technology**.
 
 **My mission:** Create systems that embed human rights into their architecture—not as an afterthought.
 
 ---
-
-## CURRENT FOCUS
 
 ## CURRENT FOCUS
 
@@ -70,11 +68,11 @@ Three waves. One mission.
 **[Photini's Go-Driver](https://github.com/Hidikoo/Photini-Go-Driver)** – Next-generation advocacy & compliance platform
 
 **What it does:**
-Go-Driver transforms how advocates protect vulnerable populations by turning scattered evidence and manual processes into a secure, AI-augmented system that never forgets, always audits, and puts victims in control. It's a AI-powered co-pilot for NGOs, lawyers, and grassroots defenders—designed to amplify their impact while protecting the people they serve.
+Go-Driver transforms how advocates protect vulnerable populations by turning scattered evidence and manual processes into a secure, AI-augmented system that never forgets, always audits, and puts victims in control. It's an AI-powered co-pilot for NGOs, lawyers, and grassroots defenders—designed to amplify their impact while protecting the people they serve.
 
 Go-Driver solves the crisis of evidence fragmentation and accountability gaps in human rights work. It consolidates case files, maintains immutable audit trails, and provides AI recommendations—always with mandatory human review. Think of it as a compliance-first command center for advocates who can't afford to lose a single piece of evidence or make a single privacy mistake, an aid kit that combines international case law, latest research and your case evidence into one clear information package.
 
-Go-Driver pioneers **Compliance-by-Design** architecture—where ethics aren't bolted on after development, but embedded in the database schema, API logic, and AI workflows from day one from the ground up. It empowers advocates with AI-powered case management, evidence synthesis, and workflow automation—while ensuring every decision is traceable, every access is logged, and every vulnerable person's data and rights are protected.
+Go-Driver pioneers **Compliance-by-Design** architecture—where ethics aren't bolted on after development, but embedded in the database schema, API logic, and AI workflows from the ground up. It empowers advocates with AI-powered case management, evidence synthesis, and workflow automation—while ensuring every decision is traceable, every access is logged, and every vulnerable person's data and rights are protected.
 
 *Built on:*
 - ✅ GDPR Art. 25 (Privacy by Design) from database schema up
@@ -82,7 +80,7 @@ Go-Driver pioneers **Compliance-by-Design** architecture—where ethics aren't b
 - ✅ Trauma-informed NLP for vulnerable populations
 - ✅ ISO 27001/27701/42001 compliance roadmap
 
-It will be built for NGOs, lawyers, and grassroots defenders who protect vulnerable populations—especially children and asylum seekers. It will later be developed to more wider use with its innovative design where it is suitable to solve many other problems among human rights, project management and human processes...
+It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable populations—especially children and asylum seekers. It will later be developed for wider use, where the same architecture can solve problems across human rights, project management and human processes.
 
 **Status:** **Architecture phase, schema-first.** DB schema, DB logic and the approved-source RAG registers — ECtHR jurisprudence, legality-supervision rulings, UN communications — are being built to court standard and validated on a live ECtHR submission (Q1 2027) before the backend resumes; the MVP follows. The sequence is the feature: a system that audits evidence must first prove itself on evidence. When children's evidence is the payload, built right beats built fast.
 
@@ -112,7 +110,7 @@ It will be built for NGOs, lawyers, and grassroots defenders who protect vulnera
 
 **Features:**
 - 🐻 Age-appropriate emotional processing tools
-- 💙 Trauma-informed guidance for adults (Collecting feedback from trauma professionals)
+- 💙 Trauma-informed guidance for adults (feedback round with trauma professionals opens 2027)
 - 🌍 Bilingual (Finnish/English, later several other languages)
 - 🎨 AI-generated illustrations
 
@@ -142,12 +140,12 @@ Design:      AI-generated visuals • Canva • Higgsfield.ai
 | **PERIOD** | **ROLE** | **ORGANIZATION** | **FOCUS** |
 |------------|----------|------------------|-----------|
 | **2025–Present** | Founder & CEO | Photini Family™ | AI Ethics • Child Advocacy • Tech Innovation |
-| **2017–2025** | Assistant Manager, Risk & Compliance | KPMG Finland | Public & Private Services Audit • GDPR • ESG • IT Audit|
-| **2011–2017** | Financial Consultant, Accountant, Claims Handler & Buyer| Accountor (formerly Pretax) • Pohjola Insurance • Nokia Networks • Ulvilan tilitoimisto • EY| Accounting & Regulatory Reporting (Accountor) • Personal-line Insurance (Pohjola) • Telecom Infrastructure Accounts (Nokia) • Auditing Associate and Accountant (Ulvilan tilitoimisto) • Audit Trainee (EY)|
+| **2017–2025** | Assistant Manager, Risk & Compliance | KPMG Finland | Public & Private Services Audit • GDPR • ESG • IT Audit |
+| **2011–2017** | Financial Consultant, Accountant, Claims Handler & Buyer | Accountor (formerly Pretax) • Pohjola Insurance • Nokia Networks • Ulvilan tilitoimisto • EY | Accounting & Regulatory Reporting (Accountor) • Personal-line Insurance Claims (Pohjola) • Telecom Infrastructure Accounts (Nokia Networks) • Auditing Associate and Accountant (Ulvilan tilitoimisto) • Audit Trainee (EY) |
 
 ### Education & Certifications
 
-- 🎓 **Bachelor of Business Administration (BBA), Accounting and Finance** — Haaga-Helia University of Applied Sciences
+- 🎓 **Bachelor of Business Administration (BBA), Accounting & Finance** — Haaga-Helia University of Applied Sciences
 - 🎓 **Master's studies (coursework completed, thesis pending), Accounting & Auditing — minor in Business Law** — University of Vaasa
 - 📜 **International Law in Action: Investigating & Prosecuting International Crimes** — Universiteit Leiden (Coursera) · in progress
 - 🤖 **AI Systems & Governance** — DataCamp: 9 certifications completed (agentic systems, LangChain, Hugging Face, n8n automation) · AI governance & ethics track in progress
@@ -166,7 +164,7 @@ Design:      AI-generated visuals • Canva • Higgsfield.ai
 **Current Work:**
 - ⚖️ **Case Finland Advocacy** — Systemic reform in immigrant family & children's rights · UN & Council of Europe communications (CAT · GRETA) 2026–2027
 - 📄 **December 2026 Publications** — Executive briefing "Protecting the Child's Human Rights in Abduction Prevention" + legal essay "No Battlefield Required"
-- 🐻 **Cosmic Bear Adventure** — Healing stories for separated children · Book 1 opening 2027 safeguarding review with trauma professionals, release 2027
+- 🐻 **Cosmic Bear Adventure** — Healing stories for separated children · Book 1 manuscript complete · safeguarding review with trauma professionals opening 2027 · release 2027
 
 ---
 
@@ -198,7 +196,7 @@ I'm always open to:
 | **CHANNEL** | **LINK** |
 |-------------|----------|
 | 💼 LinkedIn | [heidi-kalske-akintobi-38065492](https://www.linkedin.com/in/heidi-kalske-akintobi-38065492) |
-| 📧 Community | [hello@photini.family](mailto:hello@photini.family) |
+| 💌 Community | [hello@photini.family](mailto:hello@photini.family) |
 | 📧 Official | [info@photini.org](mailto:info@photini.org) |
 | 🌐 Website | [www.photini.family](https://www.photini.family) |
 | 💻 GitHub | [@Hidikoo](https://github.com/Hidikoo) |
