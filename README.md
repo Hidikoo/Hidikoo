@@ -34,10 +34,13 @@ After a decade in finance & risk management (**KPMG** & accounting and working b
 ## CURRENT FOCUS
 
 ```
-🚀 Building Photini's Go-Driver    → AI-powered legal aid toolkit (GDPR/ISO-compliant)
-📚 Writing Cosmic Bear Adventure   → Children's book series on hope & family separation
-🔍 Researching Nordic Discrimination → Evidence-based policy reform for child protection
-🌍 Advocating Case Finland         → Systemic reform in immigrant family and children rights
+🚀 Building Photini's Go-Driver              → AI-powered legal aid toolkit, Compliance by design (GDPR · EU AI Act)
+                                                Architecture phase: DB schema & approved-source RAG registers first,  pressure-tested by a live ECtHR submission.
+📄 Publishing December 2026                  → Executive briefing "Protecting the Child's Human Rights in Abduction Prevention" + legal essay "No Battlefield Required"
+🐻 Cosmic Bear Adventure — Book 1             → Children's book series on hope & family separation.
+                                                 Manuscript ready · safeguarding evaluation with trauma specialists & co-partner mapping · release 2027
+🔍 Mapping Nordic child-protection failures  → Cross-border evidence for reform for child protection (UN CRC · CAT · ECtHR)
+⚖️ Advocating Case Finland                   → Systemic reform in immigrant family & children's rights · UN & Council of Europe communications (CAT · GRETA) 2026–2027
 ```
 
 ---
@@ -79,9 +82,9 @@ Go-Driver pioneers **Compliance-by-Design** architecture—where ethics aren't b
 - ✅ Trauma-informed NLP for vulnerable populations
 - ✅ ISO 27001/27701/42001 compliance roadmap
 
-It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable populations—especially children and asylum seekers. It will later be developed to more wider use with its innovative design where it is suitable to solve many other problems among human rights, project management and human processes...
+It will be built for NGOs, lawyers, and grassroots defenders who protect vulnerable populations—especially children and asylum seekers. It will later be developed to more wider use with its innovative design where it is suitable to solve many other problems among human rights, project management and human processes...
 
-**Status:** MVP Q2-3 2026 | ISO certifications Q3-4 2026
+**Status:** **Architecture phase, schema-first.** DB schema, DB logic and the approved-source RAG registers — ECtHR jurisprudence, legality-supervision rulings, UN communications — are being built to court standard and validated on a live ECtHR submission (Q1 2027) before the backend resumes; the MVP follows. The sequence is the feature: a system that audits evidence must first prove itself on evidence. When children's evidence is the payload, built right beats built fast.
 
 **[→ View Documentation](https://hidikoo.github.io/Photini-Go-Driver/)**
 
@@ -109,11 +112,13 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
 
 **Features:**
 - 🐻 Age-appropriate emotional processing tools
-- 💙 Trauma-informed guidance for adults
-- 🌍 Bilingual (Finnish/English)
+- 💙 Trauma-informed guidance for adults (Collecting feedback from trauma professionals)
+- 🌍 Bilingual (Finnish/English, later several other languages)
 - 🎨 AI-generated illustrations
 
-**Status:** Seeking publishers | GoFundMe Q1 2026 | Collecting feedback from trauma professionals and translating into several other languages
+**Status:** Book 1 manuscript complete · safeguarding review and co-partner mapping with trauma professionals opening 2027 · release 2027 · Light Holders community live on Ko-fi.
+
+🛡️ Safeguarding-first — no release before evaluation with trauma professionals; built to grow into a co-developed tool, not just a book.
 
 ---
 
@@ -122,10 +127,10 @@ It is built for NGOs, lawyers, and grassroots defenders who protect vulnerable p
 ```yaml
 Backend:     Xano (no-code DB/API) • Docker • n8n
 Frontend:    WeWeb • HTML/CSS/JS • GitHub Pages
-AI/ML:       ChatGPT Pro • Perplexity Pro • Gemini 2.5 Flash • NotebookLLM
+AI/ML:       ChatGPT • Perplexity • Gemini 2.5 Flash • Kimi • Claude • Hugging Face • LangChain
 Compliance:  ISO 27001/27701/42001 frameworks • GDPR tooling
 Data:        Python • Pandas • Jupyter • RAG pipelines
-Design:      AI-generated visuals • Gemini 2.5 Flash • Sora 1 • Higgsfield.ai
+Design:      AI-generated visuals • Canva • Higgsfield.ai
 ```
 
 ---
@@ -136,15 +141,16 @@ Design:      AI-generated visuals • Gemini 2.5 Flash • Sora 1 • Higgsfield
 
 | **PERIOD** | **ROLE** | **ORGANIZATION** | **FOCUS** |
 |------------|----------|------------------|-----------|
-| **2015-2025** | Assistant Manager, Risk & Compliance | KPMG Finland | Public and Private Services Audit • GDPR • ESG • IT |
-| **2010-2015** | Financial Consultant & Accountant & Byer| Accountor Banking & Insurance Sector • Pohjola Insurance • Nokia Telecommunications| Accounting • Regulatory Reporting • Insurance handling personal products • Global telecommunications mast technology|
-| **2025-Present** | Founder & CEO | Photini Family™ | AI Ethics • Child Advocacy • Tech Innovation |
+| **2025–Present** | Founder & CEO | Photini Family™ | AI Ethics • Child Advocacy • Tech Innovation |
+| **2017–2025** | Assistant Manager, Risk & Compliance | KPMG Finland | Public & Private Services Audit • GDPR • ESG • IT Audit|
+| **2011–2017** | Financial Consultant, Accountant, Claims Handler & Buyer| Accountor (formerly Pretax) • Pohjola Insurance • Nokia Networks •  Ulvilan tilitoimisto • EY| Accounting & Regulatory Reporting (Accountor) • Personal-line Insurance (Pohjola) • Telecom Infrastructure Accounts (Nokia) • Auditing Associate and Accountant (Ulvilan tilitoimisto) • Audit Trainee (EY)|
 
 ### Education & Certifications
 
-- 🎓 **Bachelor of Business Administration (BBA) specialized in Accounting and Finance** – Haaga-Helia University of Applied Sciences & Master degree student in Vaasa University. Major in Accounting and Auditing and wide minor in Business law
-- 📜 **Assistant Manager KPMG IT-Audits, Public and Private Regulatory Audits, EU and National Funds Special Audits and ESG-audits** (2017-2025)
-- 🤖 **AI Ethics & Governance** (Self-taught + AI mentorship)
+- 🎓 **Bachelor of Business Administration (BBA) Accounting and Finance** — Haaga-Helia University of Applied Sciences
+- 🎓 **Master's studies (coursework completed, thesis pending), Accounting & Auditing — minor in Business Law** — University of Vaasa
+- 📜 **International Law in Action: Investigating & Prosecuting International Crimes** — Universiteit Leiden (Coursera) · in progress
+- 🤖 **AI Ethics & Governance** AI Systems & Governance — DataCamp: 9 certifications completed (agentic systems, LangChain, Hugging Face, n8n automation) · AI governance & ethics track in progress
 - 🧠 **Trauma-Informed Design Principles** (Research-based)
 
 ---
@@ -200,27 +206,6 @@ Design:      AI-generated visuals • Gemini 2.5 Flash • Sora 1 • Higgsfield
 
 ---
 
-## 2025-2026 GOALS
-
-✅ **Q4 2025-Q1 2026:**
-- Launch photini.family website
-- Publish Cosmic Bear Adventure (Book 1)
-- Go-Driver MVP with 3 NGO pilot cases
-- GoFundMe campaign
-
-✅ **Q2 2026:**
-- Nordic Discrimination research publication
-- Media campaign for Case Finland
-- ISO 27001 readiness audit
-
-✅ **Q3-Q4 2026:**
-- ISO 27001/27701 certifications
-- Go-Driver v1.0 public launch
-- Cosmic Bear Book 2 draft
-- International advocacy speaking tour
-
----
-
 ## PHILOSOPHY
 
 > **"Every child deserves a world where technology protects them, stories heal them, and networks unite them with those they love—no matter the distance."**
@@ -250,6 +235,6 @@ See 🖥️ & 📱 reports (PDFs) in Portfolio
 
 ---
 
-**© 2025 Heidi Kalske-Akintobi | Photini Family™**
+**© 2025–2026 Heidi Kalske-Akintobi | Photini Family™**
 
 </div>
