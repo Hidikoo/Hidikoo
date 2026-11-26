@@ -60,13 +60,17 @@
         .highlight { background: var(--gray-dark); border-left: 4px solid var(--accent-cyan); padding: 1.5rem 1rem; margin: 1.8rem 0; color: var(--white); font-style: italic; border-radius: 7px; }
         .techstack, .yamlblock { background: var(--gray); border-radius: 7px; padding: 1.3rem 1rem; font-family: 'Cascadia Mono', monospace; font-size: 0.98rem; color: #e2e7ef; margin-bottom: 1.5rem; overflow-x: auto; }
         .goalslist { margin: 1.4rem 0; padding: 0 1.8rem; }
+        .focuslist { display: flex; flex-direction: column; gap: 0.9rem; margin-bottom: 1.5rem; }
+        .focus-item { background: var(--gray-dark); border-left: 3px solid var(--accent-pink); padding: 0.85rem 1.1rem; border-radius: 8px; }
+        .focus-title { font-weight: 600; color: var(--white); font-size: 1.02rem; }
+        .focus-desc { color: #aeb6c4; font-size: 0.95rem; margin-top: 0.25rem; line-height: 1.45; }
         .contact-block { background: var(--gray-dark); border-left: 3px solid var(--accent-pink); margin-top: 2rem; padding: 1rem 1.3rem; border-radius: 8px; }
         .contact-block .email { color: var(--accent-cyan); font-size: 1.02em; }
         .imggrid { display: flex; gap: 13px; justify-content: center; margin: 1rem 0; flex-wrap: wrap; }
         .imggrid img { width: 54px; border-radius: 6px; border: 1.5px solid var(--gray); display: block; }
         blockquote { margin: 2.5rem 1rem; font-style: italic; color: var(--accent-pink); border-left: 4px solid var(--accent-cyan); padding: 1rem 1.3rem; background: var(--gray-dark); border-radius: 7px; }
-        .philosophy { font-size: 1.14rem; color: var(--white); margin: 1.5rem 0; }
-        footer { color: var(--gray); text-align: center; font-size: 0.98rem; margin: 3.5rem 0 2rem; }
+        .philosophy { font-size: 1.14rem; font-style: italic; color: var(--accent-pink); margin: 1.5rem 0; }
+        footer { color: #aeb6c4; text-align: center; font-size: 0.98rem; margin: 3.5rem 0 2rem; }
         @media (max-width:520px) {
             .badges { flex-direction: column; align-items: center; }
             .avatar-wrap img { width: 70px; height: 70px; }
@@ -92,16 +96,32 @@
 <section>
     <h2>About</h2>
     <div class="about-block">
-        After a decade in finance & risk management (KPMG, insurance, banking, Nokia), I founded <b>Photini Family™</b> to combine AI innovation, child protection advocacy, and trauma-informed technologies<span class="pink-dot">.</span> My mission: to embed human rights, transparency, and healing into every digital system—from the ground up<span class="pink-dot">.</span> This site contains selected experimental, research, and portfolio materials<span class="pink-dot">.</span>
+        After a decade in finance &amp; risk management (KPMG, insurance, banking, Nokia), I founded <b>Photini Family™</b> to combine AI innovation, child protection advocacy, and trauma-informed technologies<span class="pink-dot">.</span> My mission: to embed human rights, transparency, and healing into every digital system—from the ground up<span class="pink-dot">.</span> This site contains selected experimental, research, and portfolio materials<span class="pink-dot">.</span>
     </div>
 </section>
 <section>
     <h2>Current Focus</h2>
-    <div class="techstack">
-        🚀 Building Photini's Go-Driver → AI-powered legal aid toolkit (GDPR/ISO-compliant)
-        <br>📚 Writing Cosmic Bear Adventure → Healing book series on hope & family separation
-        <br>🔍 Researching Nordic Discrimination → Policy reform for minority & family rights
-        <br>🌍 Advocating Case Finland → Systemic reform in child and family protection
+    <div class="focuslist">
+        <div class="focus-item">
+            <div class="focus-title">🚀 Building Photini's Go-Driver</div>
+            <div class="focus-desc">AI-powered legal aid toolkit, compliance by design (GDPR <span class="pink-dot">·</span> EU AI Act)<span class="pink-dot">.</span> Architecture phase: DB schema &amp; approved-source RAG registers first, pressure-tested by a live ECtHR submission<span class="pink-dot">.</span></div>
+        </div>
+        <div class="focus-item">
+            <div class="focus-title">📄 Publishing December 2026</div>
+            <div class="focus-desc">Executive briefing "Protecting the Child's Human Rights in Abduction Prevention" <span class="pink-dot">+</span> legal essay "No Battlefield Required"<span class="pink-dot">.</span></div>
+        </div>
+        <div class="focus-item">
+            <div class="focus-title">🐻 Cosmic Bear Adventure — Book 1</div>
+            <div class="focus-desc">Children's book series on hope &amp; family separation<span class="pink-dot">.</span> Manuscript ready <span class="pink-dot">·</span> safeguarding evaluation with trauma specialists &amp; co-partner mapping <span class="pink-dot">·</span> release 2027<span class="pink-dot">.</span></div>
+        </div>
+        <div class="focus-item">
+            <div class="focus-title">🔍 Mapping Nordic child-protection failures</div>
+            <div class="focus-desc">Cross-border evidence for reform (UN CRC <span class="pink-dot">·</span> CAT <span class="pink-dot">·</span> ECtHR)<span class="pink-dot">.</span></div>
+        </div>
+        <div class="focus-item">
+            <div class="focus-title">⚖️ Advocating Case Finland</div>
+            <div class="focus-desc">Systemic reform in immigrant family &amp; children's rights <span class="pink-dot">·</span> UN &amp; Council of Europe communications (CAT <span class="pink-dot">·</span> GRETA) 2026–2027<span class="pink-dot">.</span></div>
+        </div>
     </div>
 </section>
 <section>
@@ -110,9 +130,9 @@
     <div class="about-block">Three waves<span class="pink-dot">.</span> One mission<span class="pink-dot">.</span></div>
     <table class="infotable">
     <tr><th>Category</th><th>Mission</th><th>Tech</th></tr>
-    <tr><td>Photini™ apps</td><td>Advocacy & case documentation</td><td>Go-Driver <span class="pink-dot">•</span> Evidence management <span class="pink-dot">•</span> AI compliance</td></tr>
-    <tr><td>Rhea Network™ & Rhea apps</td><td>Healing & trauma research</td><td>Data science <span class="pink-dot">•</span> Trauma-informed AI <span class="pink-dot">•</span> Evidence synthesis</td></tr>
-    <tr><td>Nektarios™</td><td>Governance & AI ethics</td><td>ISO frameworks <span class="pink-dot">•</span> ERP <span class="pink-dot">•</span> Compliance-by-design</td></tr>
+    <tr><td>Photini™ apps</td><td>Advocacy &amp; case documentation</td><td>Go-Driver <span class="pink-dot">•</span> Evidence management <span class="pink-dot">•</span> AI compliance</td></tr>
+    <tr><td>Rhea Network™ &amp; Rhea apps</td><td>Healing &amp; trauma research</td><td>Data science <span class="pink-dot">•</span> Trauma-informed AI <span class="pink-dot">•</span> Evidence synthesis</td></tr>
+    <tr><td>Nektarios™</td><td>Governance &amp; AI ethics</td><td>ISO frameworks <span class="pink-dot">•</span> ERP <span class="pink-dot">•</span> Compliance-by-design</td></tr>
     </table>
     <blockquote>Quality, trust, and data integrity with AI hand-in-hand with humans; misinformation is more dangerous than responsible data sharing.</blockquote>
 </section>
@@ -120,22 +140,25 @@
     <h2>Go-Driver</h2>
     <div class="about-block">
   <p>
-    <b>Photini's Go-Driver</b> an AI-powered co-pilot for NGOs, lawyers, and grassroots defenders—designed to amplify their impact while protecting the people they serve<span class="pink-dot">.</span> It transforms how advocates protect vulnerable populations by turning scattered evidence and manual processes into a secure, AI-augmented system that never forgets, always, and puts victims in control<span class="pink-dot">.</span>
+    <b>Photini's Go-Driver</b> is an AI-powered co-pilot for NGOs, lawyers, and grassroots defenders—designed to amplify their impact while protecting the people they serve<span class="pink-dot">.</span> It transforms how advocates protect vulnerable populations by turning scattered evidence and manual processes into a secure, AI-augmented system that never forgets, always audits, and puts victims in control<span class="pink-dot">.</span>
   </p>
   <p>
     Go-Driver is designed to solve the crisis of evidence fragmentation and accountability gaps in human rights work<span class="pink-dot">.</span> It consolidates case files, maintains immutable audit trails, and provides AI recommendations—always with mandatory human review<span class="pink-dot">.</span> It is a compliance-first command center for advocates who can't afford to lose a single piece of evidence or make a single privacy mistake, an aid kit that combines international case law, latest research and your case evidence into one clear information package<span class="pink-dot">.</span>
   </p>
   <p>
-    Go-Driver pioneers <b>Compliance-by-Design</b> architecture—where ethics aren't bolted on after development, but embedded in the database schema, API logic, and AI workflows from day one from the ground up<span class="pink-dot">.</span> Where it is build on<span class="pink-dot">:</span>
+    Go-Driver pioneers <b>Compliance-by-Design</b> architecture—where ethics aren't bolted on after development, but embedded in the database schema, API logic, and AI workflows from the ground up<span class="pink-dot">.</span> It's built on:
   </p>
   <ul>
-    <li>✅ GDPR Art. 25 (Privacy by Design) from database schema up</span></li>
-    <li>✅ EU AI Act transparency & mandatory human-in-loop controls</span></li>
-    <li>✅ Trauma-informed NLP for vulnerable populations</span></li>
-    <li>✅ ISO 27001/27701/42001 compliance roadmap</span></li>
+    <li>✅ GDPR Art. 25 (Privacy by Design) from database schema up</li>
+    <li>✅ EU AI Act transparency &amp; mandatory human-in-loop controls</li>
+    <li>✅ Trauma-informed NLP for vulnerable populations</li>
+    <li>✅ ISO 27001/27701/42001 compliance roadmap</li>
   </ul>
   <p>
     It empowers advocates with AI-powered case management, evidence synthesis, and workflow automation—while ensuring every decision is traceable, every access is logged, and every vulnerable person's data and rights are protected<span class="pink-dot">.</span>
+  </p>
+  <p>
+    <b>Status:</b> <b>Architecture phase, schema-first.</b> DB schema, DB logic and the approved-source RAG registers <span class="pink-dot">—</span> ECtHR jurisprudence, legality-supervision rulings, UN communications <span class="pink-dot">—</span> are being built to court standard and validated on a live ECtHR submission (Q1 2027) before the backend resumes; the MVP follows<span class="pink-dot">.</span> The sequence is the feature: a system that audits evidence must first prove itself on evidence<span class="pink-dot">.</span> When children's evidence is the payload, built right beats built fast<span class="pink-dot">.</span>
   </p>
 </div>
 </section>
@@ -145,7 +168,7 @@
         <img src="./docs/images/Cosmic_Bear_Adventure_Gif2.gif" alt="Cosmic Bear book cover" style="width:220px; max-width:90vw; height:auto; display:block; margin:0 auto;">
     </div>
     <div class="about-block">
-        <b>Journey of the Star Train<span class="pink-dot">:</span></b> A bilingual (Finnish/English) book series supporting children with separation & trauma<span class="pink-dot">.</span> Otso the bear cub travels the cosmos by Star Train—a story of healing, courage, and cosmic hope<span class="pink-dot">.</span>
+        <b>Journey of the Star Train:</b> A bilingual (Finnish/English) book series supporting children with separation &amp; trauma<span class="pink-dot">.</span> Otso the bear cub travels the cosmos by Star Train<span class="pink-dot">—</span>a story of healing, courage, and cosmic hope<span class="pink-dot">.</span>
     </div>
     <div class="imggrid">
         <img src="./docs/images/Cosmic_Bear_Adventure_Pic1.jpg" alt="Cosmic Bear 1">
@@ -153,75 +176,72 @@
         <img src="./docs/images/Cosmic_Bear_Adventure_Pic2.jpg" alt="Cosmic Bear 3">
     </div>
     <div class="techstack">
-        🐻 Emotional tools • 💙 Trauma-informed for adults • 🌍 Bilingual • 🎨 AI/Copilot artwork
+        🐻 Emotional tools <span class="pink-dot">•</span> 💙 Trauma-informed for adults <span class="pink-dot">•</span> 🌍 Bilingual <span class="pink-dot">•</span> 🎨 AI-generated illustrations
     </div>
-    <div class="about-block">
-        <b>Status<span class="pink-dot">:</span></b> Seeking publishers | GoFundMe Q4 2025 | Collecting trauma feedback & translations
+    <div class="about-block"> 
+        <b>Status:</b> Book 1 manuscript complete · safeguarding review and co-partner mapping with trauma professionals opening 2027 · release 2027 · Light Holders community live on Ko-fi<span class="pink-dot">.</span><br>
+        🛡️ <b>Safeguarding-first</b> <span class="pink-dot">—</span> no release before evaluation with trauma professionals; built to grow into a co-developed tool, not just a book<span class="pink-dot">.</span>
     </div>
 </section>
 <section>
     <h2>Tech Stack</h2>
     <div class="yamlblock">
-        Backend: Xano • Docker • n8n | Frontend: WeWeb • HTML/CSS • GitHub Pages<br>
-        AI/ML: ChatGPT Pro • Perplexity Pro • Gemini 2.5 • NotebookLLM | RAG • Python • Pandas<br>
-        Design: AI-visuals • Higgsfield • Sora 1 • Gemini
+        Backend: Xano (no-code DB/API) <span class="pink-dot">•</span> Docker <span class="pink-dot">•</span> n8n<br>
+        Frontend: WeWeb <span class="pink-dot">•</span> HTML/CSS/JS <span class="pink-dot">•</span> GitHub Pages<br>
+        AI/ML: ChatGPT <span class="pink-dot">•</span> Perplexity <span class="pink-dot">•</span> Gemini 2.5 Flash <span class="pink-dot">•</span> Kimi <span class="pink-dot">•</span> Claude <span class="pink-dot">•</span> Hugging Face <span class="pink-dot">•</span> LangChain<br>
+        Compliance: ISO 27001/27701/42001 frameworks <span class="pink-dot">•</span> GDPR tooling<br>
+        Data: Python <span class="pink-dot">•</span> Pandas <span class="pink-dot">•</span> Jupyter <span class="pink-dot">•</span> RAG pipelines<br>
+        Design: AI-generated visuals <span class="pink-dot">•</span> Canva <span class="pink-dot">•</span> Higgsfield.ai
     </div>
 </section>
 <section>
     <h2>Background</h2>
     <table class="infotable">
-        <tr><th>Period</th><th>Role</th><th>Org</th><th>Focus</th></tr>
-        <tr><td>2017-2025</td><td>Asst. Manager, Audit, Risk & Compliance</td><td>KPMG Finland</td><td>Services Public & Private Sector Audit • GDPR • IT • ESG</td></tr>
-        <tr><td>2011-2017</td><td>Financial Consultant, Accountant, Buyer</td><td>Accountor, Pohjola Insurance, Nokia</td><td>Accounting • Banking • Insurance • Telco</td></tr>
-        <tr><td>2025-Present</td><td>Founder & CEO</td><td>Photini Family™</td><td>AI Ethics • Child Advocacy • Tech Innovation</td></tr>
+        <tr><th>Period</th><th>Role</th><th>Organization</th><th>Focus</th></tr>
+        <tr><td>2025–Present</td><td>Founder &amp; CEO</td><td>Photini Family™</td><td>AI Ethics • Child Advocacy • Tech Innovation</td></tr>
+        <tr><td>2017–2025</td><td>Assistant Manager, Risk &amp; Compliance</td><td>KPMG Finland</td><td>Public &amp; Private Services Audit <span class="pink-dot">•</span> GDPR <span class="pink-dot">•</span> ESG <span class="pink-dot">•</span> IT Audit</td></tr>
+        <tr><td>2011–2017</td><td>Financial Consultant, Accountant, Claims Handler &amp; Buyer</td><td>Accountor (formerly Pretax) <span class="pink-dot">•</span> Pohjola Insurance <span class="pink-dot">•</span> Nokia Networks <span class="pink-dot">•</span> Ulvilan tilitoimisto <span class="pink-dot">•</span> EY</td><td>Accounting &amp; Regulatory Reporting (Accountor) <span class="pink-dot">•</span> Personal-line Insurance Claims (Pohjola) <span class="pink-dot">•</span> Telecom Infrastructure Accounts (Nokia Networks) <span class="pink-dot">•</span> Auditing Associate &amp; Accountant (Ulvilan tilitoimisto) <span class="pink-dot">•</span> Audit Trainee (EY)</td></tr>
     </table>
     <div class="about-block">
-        <b>BBA</b> (Accounting/Finance) - Haaga-Helia | Ongoing Master's: Vaasa Univ. (Law/Accounting)<br>
-        <b>KPMG</b> Assistant Manager: IT/Public/Private/EU audits, ESG audits (2017–25)<br>
-        <b>AI Ethics (self-taught+AI)</b>; Trauma-Informed Principles (Research-based)
+        🎓 <b>BBA, Accounting &amp; Finance</b> — Haaga-Helia University of Applied Sciences<br>
+        🎓 <b>Master's studies (coursework completed, thesis pending), Accounting &amp; Auditing <span class="pink-dot">—</span> minor in Business Law</b> <span class="pink-dot">—</span> University of Vaasa<br>
+        ⚖️ <b>International Law in Action: Investigating &amp; Prosecuting International Crimes</b> <span class="pink-dot">—</span> Universiteit Leiden (Coursera) <span class="pink-dot">·</span> in progress<br>
+        🤖 <b>AI Systems &amp; Governance</b> <span class="pink-dot">—</span> DataCamp: 9 certifications completed (agentic systems, LangChain, Hugging Face, n8n automation) <span class="pink-dot">·</span> AI governance &amp; ethics track in progress<br>
+        🧠 <b>Trauma-Informed Design Principles</b> (Research-based)
     </div>
 </section>
 <section>
-    <h2>Advocacy & Impact</h2>
+    <h2>Advocacy &amp; Impact</h2>
     <div class="imggrid">
       <img src="./docs/images/Cosmic_Bear_Adventure_Gif4.gif" alt="Cosmic Bear Animation – by my son" style="width:160px">
     </div>
     <ul class="goalslist">
-        <li>👶 Child Protection Reform – Exposing failures in Nordic child welfare</li>
-        <li>🌏 Immigrant Family Rights – Exposing discrimination/minority family separation</li>
-        <li>🔓 Transparency in AI – No more black box harm</li>
-        <li>💙 Trauma-Informed Tech – Systems that understand trauma</li>
+        <li>👶 <b>Child Protection Reform</b> <span class="pink-dot">—</span> Documenting systemic failures in Nordic child welfare, with cross-border evidence</li>
+        <li>🌏 <b>Immigrant Family Rights</b> <span class="pink-dot">—</span> Research on discrimination against minority families in protection systems</li>
+        <li>🔓 <b>Transparent &amp; Auditable AI</b> <span class="pink-dot">—</span> Building legal-aid tooling where every source is registered and verifiable, not a black box</li>
+        <li>💙 <b>Trauma-Informed Tech</b> <span class="pink-dot">—</span> Designing systems that account for secondary trauma in users and subjects alike</li>
     </ul>
-    <div class="about-block"><b>Campaigns<span class="pink-dot">:</span></b> #CaseFinland <span class="pink-dot">•</span> Nordic Discrimination Report (Q2 2026) <span class="pink-dot">•</span> Cosmic Bear project</div>
+    <div class="about-block"><b>Current Work:</b><br>
+        ⚖️ <b>Case Finland Advocacy</b> <span class="pink-dot">—</span> Systemic reform in immigrant family &amp; children's rights <span class="pink-dot">·</span> UN &amp; Council of Europe communications (CAT <span class="pink-dot">·</span> GRETA) 2026–2027<br>
+        📄 <b>December 2026 Publications</b> <span class="pink-dot">—</span> Executive briefing "Protecting the Child's Human Rights in Abduction Prevention" <span class="pink-dot">+</span> legal essay "No Battlefield Required"<br>
+        🐻 <b>Cosmic Bear Adventure</b> <span class="pink-dot">—</span> Healing stories for separated children <span class="pink-dot">·</span> Book 1 in safeguarding review with trauma professionals, release 2027
+    </div>
 </section>
 <section>
     <h2>Contact / Collaboration</h2>
     <div class="contact-block">
-        <strong>NGO Partnerships<span class="pink-dot">:</span></strong> Go-Driver pilots, data sharing, strategy<br>
-        <strong>Children’s Book Translators<span class="pink-dot">:</span></strong> Cosmic Bear series<br>
-        <strong>Impact Investors<span class="pink-dot">:</span></strong> Ethical AI & advocacy tech<br>
-        <strong>Researchers<span class="pink-dot">:</span></strong> Trauma-AI, children’s welfare evidence<br>
-        <strong>Media<span class="pink-dot">:</span></strong> Family rights & AI ethics
+        <strong>NGO Partnerships:</strong> Go-Driver pilot testing and/or data sharing on cultural-assimilation challenges and children's human rights<br>
+        <strong>Trauma-Aid Professionals &amp; Translators:</strong> shaping the Cosmic Bear series toward its 2027 release<br>
+        <strong>Impact Investors:</strong> ethical AI for human rights<br>
+        <strong>Researchers:</strong> trauma-informed AI design and legal-aid measures for child welfare<br>
+        <strong>Media:</strong> immigrant and vulnerable families' rights <span class="pink-dot">·</span> AI ethics
         <hr style="margin: 1em 0; border: none; border-bottom: 1px solid var(--gray);">
-        <b>LinkedIn<span class="pink-dot">:</span></b> <a class="email" href="https://www.linkedin.com/in/heidi-kalske-akintobi-38065492">heidi-kalske-akintobi-38065492</a><br>
-        <b>Community<span class="pink-dot">:</span></b> <a class="email" href="mailto:hello@photini.family">hello@photini.family</a><br>
-        <b>Official<span class="pink-dot">:</span></b> <a class="email" href="mailto:info@photini.org">info@photini.org</a><br>
-        <b>Personal<span class="pink-dot">:</span></b> <a class="email" href="mailto:heidi.kalskeakintobi@photini.family">heidi.kalskeakintobi@photini.family</a><br>
-        <b>Website<span class="pink-dot">:</span></b> <a class="email" href="https://www.photini.family">www.photini.family</a><br>
-        <b>GitHub<span class="pink-dot">:</span></b> <a class="email" href="https://github.com/Hidikoo">@Hidikoo</a>
+        <b>LinkedIn:</b> <a class="email" href="https://www.linkedin.com/in/heidi-kalske-akintobi-38065492">heidi-kalske-akintobi-38065492</a><br>
+        <b>Community:</b> <a class="email" href="mailto:hello@photini.family">hello@photini.family</a><br>
+        <b>Official:</b> <a class="email" href="mailto:info@photini.org">info@photini.org</a><br>
+        <b>Website:</b> <a class="email" href="https://www.photini.family">www.photini.family</a><br>
+        <b>GitHub:</b> <a class="email" href="https://github.com/Hidikoo">@Hidikoo</a>
     </div>
-</section>
-<section>
-    <h2>2025–2026 Goals</h2>
-    <ul class="goalslist">
-        <li>Launch photini.family website</li>
-        <li>Publish Cosmic Bear Adventure (Book 1/Translations)</li>
-        <li>Go-Driver MVP pilots in 3 NGOs</li>
-        <li>GoFundMe campaign</li>
-        <li>Nordic Discrimination research (Q2 2026)</li>
-        <li>ISO 27001 audit & certification path Q2/Q3 2026</li>
-        <li>Cosmic Bear Book 2 draft & international campaign</li>
-    </ul>
 </section>
 <section>
     <h2>Philosophy</h2>
@@ -229,12 +249,12 @@
     <div class="about-block" style="text-align:center; margin: 0 auto; font-size: 1.22rem;"> Stories that heal <span class="pink-dot" style="padding:0 0.5em;">|</span> Technology that protects <span class="pink-dot" style="padding:0 0.5em;">|</span> Networks that unite</div>
 </section>
 <footer>
-    <div class="imgblock"><img src="./docs/images/Cosmic_Bear_Adventure_Pic3.jpg" alt="Cosmic Bear Animated"; style="width:160px; max-width:95vw; height:auto; display:block; margin:0 auto;></div>
+    <div class="imgblock"><img src="./docs/images/Cosmic_Bear_Adventure_Pic3.jpg" alt="Cosmic Bear Animated" style="width:160px; max-width:95vw; height:auto; display:block; margin:0 auto;"></div>
     <div>Thank you for visiting<span class="pink-dot">.</span><br>
-        <b style="color: #e2e7ef;">Let's build a better future—one line of code, one story, one child at a time<span class="pink-dot">.</span><br>
+        <b style="color: var(--white);">Let's build a better future—one line of code, one story, one child at a time<span class="pink-dot">.</span><br>
         💙 🚂 ✨</b>
     </div>
-    <div style="margin-top:2rem; color: var(--accent-cyan); font-family: 'Bebas Neue', Impact, sans-serif;"> &copy; 2025 Heidi Kalske-Akintobi <span class="pink-dot">|</span> Photini Family™</div><br>
+    <div style="margin-top:2rem; color: var(--accent-cyan); font-family: 'Bebas Neue', Impact, sans-serif;"> &copy; 2025–2026 Heidi Kalske-Akintobi <span class="pink-dot">|</span> Photini Family™</div><br>
     <br><br>
     <div class="footer-achievements-badges">
       <img src="https://img.shields.io/badge/Performance-96%2F100-brightgreen" alt="Performance 96/100"><span style="margin: 0 0.5em;">|</span>
@@ -242,41 +262,11 @@
       <img src="https://img.shields.io/badge/Best%20Practices-100%2F100-brightgreen" alt="Best Practices 100/100"><span style="margin: 0 0.5em;">|</span>
       <img src="https://img.shields.io/badge/SEO-100%2F100-brightgreen" alt="SEO 100/100">
     </div>
-    <div><span style="display:block; margin-top:0.25em; font-size:0.87em; color: var(--gray); font-style:italic;">This site scores (average desktop & mobile) <b>96/100 on Performance</b>, <b>100/100 on Accessibility, SEO, and Best Practices</b> with Google Lighthouse.</span><br>
-      <a href="./docs/Google-Lighthouse-SEO-Accessibility_PersonalSite_Desktop-2025-10-24.pdf" style="color: var(--gray-dark);">See full report for 🖥️ (PDF)</a> &nbsp;|&nbsp;
-      <a href="./docs/Google-Lighthouse-SEO-Accessibility_PersonalSite_Mobile-2025-10-24.pdf" style="color: var(--gray-dark);">See full report for 📱 (PDF)</a>
+    <div><span style="display:block; margin-top:0.25em; font-size:0.87em; font-style:italic;">This site scores (average desktop &amp; mobile) <b>96/100 on Performance</b>, <b>100/100 on Accessibility, SEO, and Best Practices</b> with Google Lighthouse.</span><br>
+      <a href="./docs/Google-Lighthouse-SEO-Accessibility_PersonalSite_Desktop-2025-10-24.pdf" style="color: var(--accent-cyan);">See full report for 🖥️ (PDF)</a> &nbsp;|&nbsp;
+      <a href="./docs/Google-Lighthouse-SEO-Accessibility_PersonalSite_Mobile-2025-10-24.pdf" style="color: var(--accent-cyan);">See full report for 📱 (PDF)</a>
     </div>
 </footer>
 </div>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
