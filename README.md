@@ -34,12 +34,12 @@ After a decade in finance & risk management (**KPMG** & accounting and working b
 ## CURRENT FOCUS
 
 ```
-🚀 Building Photini's Go-Driver              → AI-powered legal aid toolkit, Compliance by design (GDPR · EU AI Act)
-                                                Architecture phase: DB schema & approved-source RAG registers first,  pressure-tested by a live ECtHR submission.
+🚀 Building Photini's Go-Driver              → AI-powered legal aid toolkit — compliance by design (GDPR · EU AI Act)
+                                                Architecture phase: DB schema & approved-source RAG registers first, pressure-tested by a live ECtHR submission.
 📄 Publishing December 2026                  → Executive briefing "Protecting the Child's Human Rights in Abduction Prevention" + legal essay "No Battlefield Required"
 🐻 Cosmic Bear Adventure — Book 1             → Children's book series on hope & family separation.
                                                  Manuscript ready · safeguarding evaluation with trauma specialists & co-partner mapping · release 2027
-🔍 Mapping Nordic child-protection failures  → Cross-border evidence for reform for child protection (UN CRC · CAT · ECtHR)
+🔍 Mapping Nordic child-protection failures  → Cross-border evidence for reform (UN CRC · CAT · ECtHR)
 ⚖️ Advocating Case Finland                   → Systemic reform in immigrant family & children's rights · UN & Council of Europe communications (CAT · GRETA) 2026–2027
 ```
 
@@ -108,7 +108,7 @@ It will be built for NGOs, lawyers, and grassroots defenders who protect vulnera
     <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic5.jpg" width="70"></td>
     <td><img src="./docs/images/Cosmic_Bear_Adventure_Pic2.jpg" width="70"></td>
   </tr>
-<table>
+</table>
 
 **Features:**
 - 🐻 Age-appropriate emotional processing tools
@@ -143,14 +143,14 @@ Design:      AI-generated visuals • Canva • Higgsfield.ai
 |------------|----------|------------------|-----------|
 | **2025–Present** | Founder & CEO | Photini Family™ | AI Ethics • Child Advocacy • Tech Innovation |
 | **2017–2025** | Assistant Manager, Risk & Compliance | KPMG Finland | Public & Private Services Audit • GDPR • ESG • IT Audit|
-| **2011–2017** | Financial Consultant, Accountant, Claims Handler & Buyer| Accountor (formerly Pretax) • Pohjola Insurance • Nokia Networks •  Ulvilan tilitoimisto • EY| Accounting & Regulatory Reporting (Accountor) • Personal-line Insurance (Pohjola) • Telecom Infrastructure Accounts (Nokia) • Auditing Associate and Accountant (Ulvilan tilitoimisto) • Audit Trainee (EY)|
+| **2011–2017** | Financial Consultant, Accountant, Claims Handler & Buyer| Accountor (formerly Pretax) • Pohjola Insurance • Nokia Networks • Ulvilan tilitoimisto • EY| Accounting & Regulatory Reporting (Accountor) • Personal-line Insurance (Pohjola) • Telecom Infrastructure Accounts (Nokia) • Auditing Associate and Accountant (Ulvilan tilitoimisto) • Audit Trainee (EY)|
 
 ### Education & Certifications
 
-- 🎓 **Bachelor of Business Administration (BBA) Accounting and Finance** — Haaga-Helia University of Applied Sciences
+- 🎓 **Bachelor of Business Administration (BBA), Accounting and Finance** — Haaga-Helia University of Applied Sciences
 - 🎓 **Master's studies (coursework completed, thesis pending), Accounting & Auditing — minor in Business Law** — University of Vaasa
 - 📜 **International Law in Action: Investigating & Prosecuting International Crimes** — Universiteit Leiden (Coursera) · in progress
-- 🤖 **AI Ethics & Governance** AI Systems & Governance — DataCamp: 9 certifications completed (agentic systems, LangChain, Hugging Face, n8n automation) · AI governance & ethics track in progress
+- 🤖 **AI Systems & Governance** — DataCamp: 9 certifications completed (agentic systems, LangChain, Hugging Face, n8n automation) · AI governance & ethics track in progress
 - 🧠 **Trauma-Informed Design Principles** (Research-based)
 
 ---
@@ -166,7 +166,7 @@ Design:      AI-generated visuals • Canva • Higgsfield.ai
 **Current Work:**
 - ⚖️ **Case Finland Advocacy** — Systemic reform in immigrant family & children's rights · UN & Council of Europe communications (CAT · GRETA) 2026–2027
 - 📄 **December 2026 Publications** — Executive briefing "Protecting the Child's Human Rights in Abduction Prevention" + legal essay "No Battlefield Required"
-- 🐻 **Cosmic Bear Adventure** — Healing stories for separated children · Book 1 in safeguarding review with trauma professionals, release 2027
+- 🐻 **Cosmic Bear Adventure** — Healing stories for separated children · Book 1 opening 2027 safeguarding review with trauma professionals, release 2027
 
 ---
 
