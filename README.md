@@ -33,15 +33,15 @@ After a decade in finance & risk management (**KPMG** & accounting and working b
 
 ## CURRENT FOCUS
 
-```
-🚀 Building Photini's Go-Driver              → AI-powered legal aid toolkit — compliance by design (GDPR · EU AI Act)
-                                                Architecture phase: DB schema & approved-source RAG registers first, pressure-tested by a live ECtHR submission.
-📄 Publishing December 2026                  → Executive briefing "Protecting the Child's Human Rights in Abduction Prevention" + legal essay "No Battlefield Required"
-🐻 Cosmic Bear Adventure — Book 1             → Children's book series on hope & family separation.
-                                                 Manuscript ready · safeguarding evaluation with trauma specialists & co-partner mapping · release 2027
-🔍 Mapping Nordic child-protection failures  → Cross-border evidence for reform (UN CRC · CAT · ECtHR)
-⚖️ Advocating Case Finland                   → Systemic reform in immigrant family & children's rights · UN & Council of Europe communications (CAT · GRETA) 2026–2027
-```
+## CURRENT FOCUS
+
+| | |
+|---|---|
+| 🚀 **Building Photini's Go-Driver** | AI-powered legal aid toolkit, compliance by design (GDPR · EU AI Act). Architecture phase: DB schema & approved-source RAG registers first, pressure-tested by a live ECtHR submission |
+| 📄 **Publishing December 2026** | Executive briefing "Protecting the Child's Human Rights in Abduction Prevention" + legal essay "No Battlefield Required" |
+| 🐻 **Cosmic Bear Adventure — Book 1** | Children's book series on hope & family separation. Manuscript ready · safeguarding evaluation with trauma specialists & co-partner mapping · release 2027 |
+| 🔍 **Mapping Nordic child-protection failures** | Cross-border evidence for reform (UN CRC · CAT · ECtHR) |
+| ⚖️ **Advocating Case Finland** | Systemic reform in immigrant family & children's rights · UN & Council of Europe communications (CAT · GRETA) 2026–2027 |
 
 ---
 
