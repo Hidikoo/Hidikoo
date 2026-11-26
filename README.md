@@ -158,15 +158,15 @@ Design:      AI-generated visuals • Canva • Higgsfield.ai
 ## ADVOCACY & IMPACT
 
 **Human Rights Focus:**
-- 👶 **Child Protection Reform** – Exposing systemic failures in Nordic child welfare
-- 🌏 **Immigrant Family Rights** – Documenting discrimination against minority families
-- 🔓 **Transparency in AI** – Fighting "black box" decision-making
-- 💙 **Trauma-Informed Tech** – Designing systems that understand secondary trauma
+- 👶 **Child Protection Reform** — Documenting systemic failures in Nordic child welfare, with cross-border evidence
+- 🌏 **Immigrant Family Rights** — Research on discrimination against minority families in protection systems
+- 🔓 **Transparent & Auditable AI** — Building legal-aid tooling where every source is registered and verifiable, not a black box
+- 💙 **Trauma-Informed Tech** — Designing systems that account for secondary trauma in users and subjects alike
 
-**Current Campaigns:**
-- ✊ **#CaseFinland** – Political asylum case highlighting systemic failures
-- 📢 **Nordic Discrimination Report** – Evidence-based research (Q2 2026 publication)
-- 📚 **Cosmic Bear Adventure** – Healing stories for separated children worldwide
+**Current Work:**
+- ⚖️ **Case Finland Advocacy** — Systemic reform in immigrant family & children's rights · UN & Council of Europe communications (CAT · GRETA) 2026–2027
+- 📄 **December 2026 Publications** — Executive briefing "Protecting the Child's Human Rights in Abduction Prevention" + legal essay "No Battlefield Required"
+- 🐻 **Cosmic Bear Adventure** — Healing stories for separated children · Book 1 in safeguarding review with trauma professionals, release 2027
 
 ---
 
@@ -186,12 +186,12 @@ Design:      AI-generated visuals • Canva • Higgsfield.ai
 
 ## CONTACT & COLLABORATION
 
-**I'm always open to:**
-- 🤝 **NGO Partnerships** for Go-Driver pilot testing and/or data sharing of cultural assimilation challenges and children human rights
-- 🎨 **Children's Book Translators and Trauma Aid Solutions** for Cosmic Bear series
-- 💼 **Impact Investors** interested in ethical AI for human rights
-- 🔬 **Researchers** studying trauma-informed AI design and logical aid measures for children welfare
-- 📰 **Media** covering immigrant & most vulnerable family rights & AI ethics
+I'm always open to:
+- 🤝 **NGO Partnerships** — Go-Driver pilot testing and/or data sharing on cultural-assimilation challenges and children's human rights
+- 🎨 **Trauma-Aid Professionals & Translators** — shaping the Cosmic Bear series toward its 2027 release
+- 💼 **Impact Investors** — ethical AI for human rights
+- 🔬 **Researchers** — trauma-informed AI design and legal-aid measures for child welfare
+- 📰 **Media** — immigrant and vulnerable families' rights · AI ethics
 
 **Reach out:**
 
