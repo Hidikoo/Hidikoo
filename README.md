@@ -200,7 +200,6 @@ I'm always open to:
 | 💼 LinkedIn | [heidi-kalske-akintobi-38065492](https://www.linkedin.com/in/heidi-kalske-akintobi-38065492) |
 | 📧 Community | [hello@photini.family](mailto:hello@photini.family) |
 | 📧 Official | [info@photini.org](mailto:info@photini.org) |
-| 📧 Personal | [heidi.kalskeakintobi@photini.family](mailto:heidi.kalskeakintobi@photini.family) |
 | 🌐 Website | [www.photini.family](https://www.photini.family) |
 | 💻 GitHub | [@Hidikoo](https://github.com/Hidikoo) |
 
